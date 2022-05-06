@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPEF", "TPEF\TPEF.csproj", "{E0DA7820-3665-4202-B851-D53D64B93A8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0DA7820-3665-4202-B851-D53D64B93A8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0DA7820-3665-4202-B851-D53D64B93A8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0DA7820-3665-4202-B851-D53D64B93A8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0DA7820-3665-4202-B851-D53D64B93A8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C97041BB-6F8B-4903-8F2F-25178470BA0F}
+	EndGlobalSection
+EndGlobal
